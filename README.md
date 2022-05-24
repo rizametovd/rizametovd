@@ -22,4 +22,5 @@
 
 - Telegram: [t.me/rizametov](https://t.me/rizametov)</br>
 
-![](https://www.codewars.com/users/rizametov/badges/large)
+#### Codewars:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/rizametov/badges/large)](https://www.codewars.com/users/rizametov)
