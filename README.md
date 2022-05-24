@@ -21,3 +21,5 @@
 #### Контакты:
 
 - Telegram: [t.me/rizametov](https://t.me/rizametov)</br>
+
+![](https://www.codewars.com/users/rizametov/badges/large)
