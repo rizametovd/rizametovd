@@ -2,9 +2,9 @@
 
 
 #### Коротко о себе:
-- Выпускник Яндекс.Практикума.
+- Пишу на React и Vue 3.
 - Полгода коммерческого опыта в европейском стартапе CopyMonkey на стеке React 17+, TypeScript, MobX, MUI.
-- Стек: React, Vue, Vuex, Redux, JavaScript, TypeScript, HTML, CSS, MUI, Figma, Git.
+- Стек: React, Redux, Vue, Vuex, Vue Router, JavaScript, TypeScript, HTML, CSS, MUI, Figma, Git.
 - Нахожусь в поиске работы
 
 #### Контакты:
