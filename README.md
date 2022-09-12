@@ -5,7 +5,7 @@
 - Пишу на React.
 - 8 месяцев коммерческого опыта в европейском стартапе CopyMonkey на стеке React 17+, TypeScript, MobX, MUI.
 - Стек: React, Redux-Toolkit, JavaScript, TypeScript, HTML, CSS, MUI, Figma, Git.
-- Нахожусь в поиске работы
+- Нахожусь в поиске работы.
 
 
 #### Работы:
