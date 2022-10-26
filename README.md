@@ -1,9 +1,8 @@
 ### Привет, меня зовут Давид
 
 
-#### Коротко о себе:
-- Пишу на React.
-- Стек: React, TypeScript, Redux-Toolkit, JavaScript, HTML, CSS, MUI, Figma, Git.
+#### Стек:
+- React, TypeScript, Redux-Toolkit, JavaScript, HTML, CSS, MUI, Figma, Git.
 
 
 #### Работы:
